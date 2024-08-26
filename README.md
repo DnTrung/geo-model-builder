@@ -40,4 +40,4 @@ The command line version accepts the following parameteters...
 * `learning_rate`: Initial learning rate
 * `decay_rate`: Decay rate
 * `eps`: Epsilon value for stopping criteria
-* `n_iterations`: Maximum number of iterations for gradient descent
+* `n_iterations`: Maximum number of iterations for gradient descent.
